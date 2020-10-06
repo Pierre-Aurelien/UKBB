@@ -16,3 +16,4 @@ Inference was then conducted by simple multiple linear regression on the sparse 
 To account for model selection randomness, we repeated the proceudres 100 times by bootstrapping the model selection dataset
 
 ## Key results
+![results](https://user-images.githubusercontent.com/66125433/95206509-b114da00-07de-11eb-9c58-ba13ad00f3cf.jpg)
