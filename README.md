@@ -22,3 +22,9 @@ To account for model selection randomness, we repeated the proceudres 100 times 
 
 The analysis revealed some coherent insights on the link between BMI and already known risk factors: sedentary lifestyle, medical conditions and phenotype. This adds up to the confluence of evidence on that matter. <br/>
 Bootstraping the original dataset however showed the difficulty in recovering the same model- This finding should act as a reminder to be cautious with the conclusions of suck kind of analysis: Inference in observational studies has no causal guarantees and the inference can be brittle.
+
+
+## Files
+**Model selection with sensitivity analysis.ipynb** : Presents the statistical workflow, from data splitting to bootstrapping the dataset to perform crude sensitivity analysis. <br/>.
+**Correlation in the UK BioBank.ipynb** : Illustrates a few pre-processing steps for the UK_BB, the correlation structure and a quick inference 
+**Soup_code_UKBB-HTML.ipynb** : Soup code to scrap data from the HTML _side file_  and returns a simple .csv file named "Summary":
