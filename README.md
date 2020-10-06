@@ -25,6 +25,6 @@ Bootstraping the original dataset however showed the difficulty in recovering th
 
 
 ## Files
-**Model selection with sensitivity analysis.ipynb** : Presents the statistical workflow, from data splitting to bootstrapping the dataset to perform crude sensitivity analysis. <br/>.
-**Correlation in the UK BioBank.ipynb** : Illustrates a few pre-processing steps for the UK_BB, the correlation structure and a quick inference 
-**Soup_code_UKBB-HTML.ipynb** : Soup code to scrap data from the HTML _side file_  and returns a simple .csv file named "Summary":
+**Model selection with sensitivity analysis.ipynb** : Presents the statistical workflow, from data splitting to bootstrapping the dataset to perform crude sensitivity analysis. <br/>
+**Correlation in the UK BioBank.ipynb** : Illustrates a few pre-processing steps for the UK_BB, the correlation structure and a quick inference. <br/>
+**Soup_code_UKBB-HTML.ipynb** : Soup code to scrap data from the HTML _side file_  and returns a simple .csv file named "Summary". <br/>
