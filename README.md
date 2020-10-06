@@ -1,6 +1,6 @@
 _8-week short project accomplished in Francesca Buffa's lab, Department of Oncology, Oxford UK_ 
 
-## UKBB- Aims and context.
+## Risk factors in the UKBB- Aims and context.
 This project explores one methodology to identify risk factors in the UK BioBank.
 The case of BMI (Body Mass Index) was used for illustrative purposes. Indeed, the prevalence of obesity is steadily raising, expected to reach over a billion in 2030. This public health concern will increase the burden on healthcare as obesity is positvely correlated with type 2 diabetes, cardiovascular disease, breathing problem and certain types of cancer.<br/>
 It is now accepted that obesity is a complex problem resulting from many possible interaction, ranging from genetic, metabolic,environmental, behavioral, to  socio-cultural factors. Explaining BMI variability would help disentangle this multifacetted condition thus helping health experts and policy makers intervene.
