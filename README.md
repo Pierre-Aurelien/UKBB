@@ -17,3 +17,6 @@ To account for model selection randomness, we repeated the proceudres 100 times 
 
 ## Key results
 ![results](https://user-images.githubusercontent.com/66125433/95206509-b114da00-07de-11eb-9c58-ba13ad00f3cf.jpg)
+
+The analysis revealed some coherent insights on the link between BMI and already known risk factors: sedentary lifestyle, medical conditions and phenotype. This adds up to the confluence of evidence on that matter. 
+Bootstraping the original dataset however showed the difficulty in recovering the same model- This finding should act as a reminder to be cautious with the conclusions of suck kind of analysis: Inference in observational studies has no causal guarantees and the inference can be brittle.
